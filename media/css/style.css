@@ -1,0 +1,801 @@
+/* * {
+    border: 3px solid rgb(0, 0, 0); 
+   }*/
+
+  
+  html{
+  
+/* Background */
+  position: relative;
+  width: 1440px;
+  height: 1895px;
+  left: -3px;
+  right: 0;
+  top: 0px;
+  bottom: 115px;
+  }
+
+  body{
+    position: relative;
+    width: 1440px;
+    height: 1895px;
+    left: -3px;
+    right: 0;
+    top: 0px;
+    bottom: 115px;
+    background: rgba(229, 229, 229, 0.53);
+  }
+  
+  
+    .header {
+  /* background 2 */
+  position: relative;
+  width: 1443px;
+  height: 194px;
+  left: -3px;
+  right: 3px;
+  top: -20px;
+  bottom: 1590px;
+  background: linear-gradient(to right, rgb(17 221 221), rgb(28, 50, 173));
+  }
+
+  .navigation_bar{position: relative;width: 1331px;height: 60px;left: 76px;right: 110px;top: 32px;bottom: 1803px;}  
+
+  .logo{
+    /* Group */
+    position: relative;
+    width: 88.99px;
+    height: 50px;
+    left: 0%;
+    right: 0.01%;
+    top: 0%;
+    bottom: 0%;
+  }
+  
+    .vertical {
+  /* Line 2 */
+  position: relative;
+  width: 50px;
+  height: 0;
+  left: 190.5px;
+  top: -25px;
+  transform: rotate(90deg);
+  border: 1px solid rgb(255, 255, 255);
+  }
+
+  .text1 p{
+    /* Ð˜Ð¡ÐŸÐžÐ›ÐÐ˜Ð¢Ð•Ð›Ð¬ */
+    position: relative;
+    width: 244px;
+    height: 20px;
+    left: 309px;
+    right: 877px;
+    top: -60px;
+    bottom: 1813px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 4px;
+    text-align: left;
+  }
+
+.kabinet{
+  position: relative;
+  height: 55px;
+  width: 286px;
+  left: 1050px;
+  top: -120px;
+  display:flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+  .text2 {
+/* Ð›Ð¸Ñ‡Ð½Ñ‹Ð¹ ÐºÐ°Ð±Ð¸Ð½ÐµÑ‚ */position: relative;width: 128px;height: 20px;left: auto;right: auto;top: 2px;display: flex;flex-direction: row;align-items: center;color: rgb(255, 255, 255);font-family: Montserrat;font-size: 14px;font-weight: 500;line-height: 17px;letter-spacing: 0%;text-align: left;}
+
+ .text3 {
+  /* OOO â€œÐ¢Ñ€Ð°Ð½Ð·Ð¸Ñ‚â€ */
+  position: relative;
+  width: 103px;
+  height: 50px;
+  left: auto;
+  right: 125px;
+  top: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: rgb(255, 255, 255);
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 800;
+  line-height: 15px;
+  letter-spacing: 0%;
+  text-align: left;
+ }
+
+ .exit{
+  /* Ð’Ñ‹Ñ…Ð¾Ð´ */
+  position: relative;
+  width: 84px;
+  height: 30px;
+  left: 1232px;
+  right: -106px;
+  top: -165px;
+  bottom: -2px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: rgb(255 255 255);
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  letter-spacing: 0%;
+  text-align: left;
+  flex-wrap: nowrap;
+ }
+
+ .ex{
+  position: relative;
+  width: 20px;
+  left: 0px;
+ }
+
+  .nav2{
+    /* nav 2 */
+    display: contents;
+    position: relative;
+    width: 845px;
+    height: 69px;
+    left: 466px;
+    right: 129px;
+    top: 123px;
+    bottom: 1703px;
+  }
+
+  .rectangle24{
+    /* Rectangle 24 */
+    position: relative;
+    width: 148px;
+    height: 50px;
+    left: 478px;
+    right: 219px;
+    top: 70px;
+    bottom: -123px;
+    border-radius: 10px 10px 0px 0px;
+    background: rgb(134, 214, 212);
+  }
+
+  .rectangle24 p{
+/* ÐŸÐ¾Ð¸ÑÐº Ð·Ð°ÐºÐ°Ð·Ð¾Ð² */position: relative;width: 111px;height: 30px;left: 20px;right: 25px;top: 15px;bottom: -113px;display: flex;flex-direction: row;align-items: center;color: rgb(36, 83, 134);font-family: Montserrat;font-size: 14px;font-weight: 500;line-height: 17px;letter-spacing: 10%;text-align: center;}
+
+  .rectangle21{
+    /* Rectangle 21 */
+    position: relative;
+    width: 148px;
+    height: 73px;
+    left: 646px;
+    right: 51px;
+    top: -20px;
+    bottom: -123px;
+    border-radius: 10px 10px 0px 0px;
+    background: rgb(249, 215, 94);
+  }
+
+  .rectangle21 p{
+    /* Ð—Ð°ÐºÐ°Ð·Ñ‹ */
+    position: relative;
+    width: 76px;
+    height: 20px;
+    left: 40px;
+    right: 32px;
+    top: 25px;
+    bottom: -103px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(36, 83, 134);
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 10%;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  
+  .rectangle25{
+/* Rectangle 25 */position: relative;width: 148px;height: 50px;left: 813px;right: -116px;top: -83px;bottom: -123px;border-radius: 10px 10px 0px 0px;background: rgb(134, 214, 212);}
+
+  .rectangle25 p{
+    /* ÐœÐ°Ñ€ÑˆÑ€ÑƒÑ‚Ñ‹ */
+    position: relative;
+    width: 130px;
+    height: 48px;
+    left: 12px;
+    right: 0px;
+    top: 10px;
+    bottom: -143px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    color: rgb(36, 83, 134);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 65px;
+    letter-spacing: 10%;
+    text-align: center;
+  }
+  
+  .rectangle26{
+    /* Rectangle 26 */
+    position: relative;
+    width: 147px;
+    height: 50px;
+    left: 981px;
+    right: -283px;
+    top: -146px;
+    bottom: -123px;
+    border-radius: 10px 10px 0px 0px;
+    background: rgb(134, 214, 212);
+  }
+  
+  .rectangle26 p{
+    /* ÐšÐ°Ñ€Ñ‚Ð¾Ñ‡ÐºÐ° Ð¢Ðš */
+    position: relative;
+    width: 93px;
+    height: 25px;
+    left: 34px;
+    right: 0px;
+    top: 11px;
+    bottom: -113px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(36, 83, 134);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 10%;
+    text-align: center;
+  }
+
+  .rectangle27{
+    /* Rectangle 27 */
+    position: relative;
+    width: 148px;
+    height: 50px;
+    left: 1148px;
+    right: -451px;
+    top: -210px;
+    bottom: -123px;
+    border-radius: 10px 10px 0px 0px;
+    background: rgb(134, 214, 212);
+  }
+
+  .rectangle27 p{
+    /* ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ */
+    position: relative;
+    width: 96px;
+    height: 25px;
+    left: 30px;
+    right: auto;
+    top: 10px;
+    bottom: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(36, 83, 134);
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 10%;
+    text-align: center;
+  }
+
+
+.rectangle20{
+  /* Rectangle 20 */
+  position: relative;
+  width: 1220px;
+  height: 1588px;
+  left: 110px;
+  right: 113px;
+  top: -44px;
+  bottom: 2px;
+  background: rgb(255, 255, 255);
+}
+
+.rectangle20 h1{
+/* Ð¢ÐµÐºÑƒÑ‰Ð¸Ðµ Ð·Ð°ÐºÐ°Ð·Ñ‹ */position: relative;width: 492px;height: 40px;left: 434px;right: 464px;top: 80px;bottom: 1583px;display: flex;flex-direction: row;align-items: center;color: rgb(36, 83, 134);font-family: Montserrat;font-size: 36px;font-weight: 700;line-height: 57px;letter-spacing: 8px;text-align: center;text-transform: uppercase;}
+
+
+
+.group23{
+  /* Group 23 */
+  display: flex;
+  position: relative;
+  width: 930px;
+  height: 64px;
+  left: 134px;
+  right: 317px;
+  top: 100px;
+  bottom: 1473px;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+
+.group23 p{
+  color: rgb(102, 102, 102);
+font-family: Montserrat;
+font-size: 21px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+
+
+
+
+.order1{
+  /* Order #1 */
+  position: relative;
+  width: 1010px;
+  height: 93.5px;
+  left: 120px;
+  right: 208px;
+  top: 130px;
+  bottom: 1339.5px;
+}
+
+.order1 h1{
+  color: rgb(102, 102, 102);
+font-family: Montserrat;
+font-size: 30px;
+font-weight: 600;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.order1 p{
+  color: rgb(102, 102, 102);
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.order1 h2{
+  color: rgb(102, 102, 102);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 31px;
+  text-align: center;
+}
+
+.arrow1{
+  /* Arrow 1 */
+  position: relative;
+  width: 60px;
+  height: 15px;
+  left: 385px;
+  top: -144px;
+}
+
+.arrow13{
+  /* Arrow 1 */
+  position: relative;
+  width: 60px;
+  height: 15px;
+  left: 385px;
+  top: -135px;
+}
+
+.arrow12{
+  /* Arrow 1 */
+  position: relative;
+  width: 60px;
+  height: 15px;
+  left: 365px;
+  top: -150px;
+}
+
+.vector6{
+  /* Vector 6 */
+  position: relative;
+  width: 35px;
+  height: 45px;
+  left: 695px;
+  top: -260px;
+  border: 0px solid rgb(62, 182, 88);
+}
+
+.vector62{
+  /* Vector 6 */
+  position: relative;
+  width: 35px;
+  height: 45px;
+  left: 713px;
+  top: -260px;
+  border: 0px solid rgb(62, 182, 88);
+}
+
+
+.vector2{
+  /* Vector 2 */
+  position: relative;
+  width: 17px;
+  height: 34px;
+  left: 1004px;
+  top: -370px;
+  border: 0px solid rgb(196, 196, 196);
+}
+
+.vector22{
+  /* Vector 2 */
+  position: relative;
+  width: 17px;
+  height: 34px;
+  left: 1009px;
+  top: -325px;
+  border: 0px solid rgb(196, 196, 196);
+}
+
+.vector21{
+  /* Vector 2 */
+  position: relative;
+  width: 17px;
+  height: 34px;
+  left: 989px;
+  top: -370px;
+  border: 0px solid rgb(196, 196, 196);
+}
+
+.line4{
+  /* Line 4 */
+  position: relative;
+  width: 985px;
+  left: 42px;
+  top: -20px;
+  border: 0px dashed rgb(196, 196, 196);
+}
+
+
+.rectangle30{
+  /* Rectangle 30 */
+  position: relative;
+  width: 1160px;
+  height: 700px;
+  left: 34px;
+  right: -144px;
+  top: 130px;
+  bottom: -576px;
+  background: rgba(207, 239, 238, 0.5);
+}
+
+.order2{
+  /* Order #2 */
+  position: relative;
+  width: 1010px;
+  height: 93.5px;
+  left: 47px;
+  right: 208px;
+  top: 30px;
+  bottom: -3436.5px;
+}
+
+.order2 h1{
+  color: rgb(36, 83, 134);
+  font-family: Montserrat;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 37px;
+  letter-spacing: 0px;
+  text-align: center;
+}
+
+.order2 h2{
+  color: rgb(36, 83, 134);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.order2 p{
+  color: rgb(36, 83, 134);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0px;
+  text-align: center;
+}
+
+.arrow2{
+  /* Arrow 2 */
+  position: relative;
+  width: 60px;
+  height: 15px;
+  left: 390px;
+  top: -145px;
+  box-sizing: border-box;
+  border: 0px solid rgb(36, 83, 134);
+}
+
+.line3{
+  /* Line 3 */
+  position: relative;
+  width: 31px;
+  height: 0;
+  left: 710px;
+  top: -240px;
+  border-radius: 35px;
+  border: 3px solid rgb(192, 39, 45);
+}
+
+.vector3{
+  /* Vector 3 */
+  position: relative;
+  width: 37px;
+  height: 34px;
+  left: 1010px;
+  top: -330px;
+  transform: rotate(0deg);
+  border: 0px solid rgb(36, 83, 134);
+}
+
+.group24{
+    /* Group 24 */
+    display: flex;
+    position: relative;
+    width: 963px;
+    height: 64px;
+    left: 7px;
+    right: 317px;
+    top: -240px;
+    bottom: 1473px;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+.group24 p{
+  color: rgb(36, 83, 134);
+  font-family: Montserrat;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: center;
+}
+  
+.rectangle38{
+  /* Rectangle 38 */
+  position: relative;
+  width: 725px;
+  height: 270px;
+  left: 145px;
+  top: -523px;
+  border-radius: 25px;
+  background: rgb(255, 255, 255);
+}
+.rectangle38 h1{
+/* ПРИМЕЧАНИЯ */position: relative;width: 251px;height: 30px;left: 0px;right: 481px;top: 0px;bottom: -311px;display: flex;flex-direction: row;align-items: center;color: rgb(36, 83, 134);font-family: Montserrat;font-size: 20px;font-weight: 600;line-height: 24px;letter-spacing: 0%;text-align: left;}
+
+.rectangle38 p{
+/* Обзорная экскурсия по городу для учеников 6-го класса. Примерно 38 детей + 2 руководителя + 1 экскурсовод. Автобусу прибыть минимум за 15 минут до начала экскурсии. Время на экскурсионную программу -3 часа. Основные остановки - Мемориал Победы, КафедральныйСобор, Дацан, Площадь Ленина. Окончание обслуживание в 13:00 - площадь Ленина. */position: relative;width: 630px;height: 215px;left: 0px;right: 132px;top: -30px;bottom: -534px;display: flex;flex-direction: row;align-items: center;color: rgb(36, 83, 134);font-family: Montserrat;font-size: 20px;font-weight: 400;line-height: 24px;letter-spacing: 0%;text-align: left;}
+
+.notes{
+  position: relative;
+  width: 655px;
+  height: 240px;
+  top: 10px;
+  left: 50px;
+}
+
+.line5{
+  /* Line 5 */
+  position: relative;
+  width: 985px;
+  left: 42px;
+  top: 30px;
+  border: 0px dashed rgb(196 196 196);
+}
+
+.order3{
+  /* Order #3 */
+  position: relative;
+  width: 1060px;
+  height: 93px;
+  left: 144px;
+  right: 208px;
+  top: 153px;
+  bottom: 476px;
+}
+
+.order3 h1{
+/* 14.02.20 */position: relative;width: 185px;height: 30px;left: 10px;right: 690px;top: 0px;bottom: -398.5px;display: flex;flex-direction: row;align-items: center;letter-spacing: 0px;justify-content: center;color: rgb(102, 102, 102);font-family: Montserrat;font-size: 30px;font-weight: 600;line-height: 37px;letter-spacing: 0%;text-align: center;}
+
+.order3 h2{
+/* Чита */
+color: rgb(102, 102, 102);
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.order3 p{
+/* 07:00 */position: relative;width: 185px;height: 30px;left: 10px;right: 690px;top: 0px;bottom: -438.5px;display: flex;flex-direction: row;align-items: center;justify-content: center;color: rgb(102, 102, 102);font-family: Montserrat;font-size: 24px;font-weight: 400;line-height: 29px;letter-spacing: 0%;text-align: center;}
+
+.line6{
+  /* Line 6 */
+  position: relative;
+  width: 985px;
+  left: 42px;
+  top: 30px;
+  border: 0px dashed rgb(196, 196, 196);
+}
+
+.order4{
+    /* Order #4 */
+    position: relative;
+    width: 1010px;
+    height: 93px;
+    left: 144px;
+    right: 208px;
+    top: 150px;
+    bottom: 476px;
+}
+
+.order4 h1{
+  /* 14.02.20 */
+  position: relative;
+  width: 185px;
+  height: 30px;
+  left: 10px;
+  right: 690px;
+  top: 0px;
+  bottom: -398.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  letter-spacing: 0px;
+  justify-content: center;
+  color: rgb(102, 102, 102);
+  font-family: Montserrat;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 37px;
+  letter-spacing: 0%;
+  text-align: center;
+  }
+  
+  .order4 h2{
+  /* Чита */
+  color: rgb(102, 102, 102);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0%;
+  text-align: center;
+  }
+  
+  .order4 p{
+  /* 07:00 */
+  position: relative;
+  width: 185px;
+  height: 30px;
+  left: 10px;
+  right: 690px;
+  top: 0px;
+  bottom: -438.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: rgb(102, 102, 102);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0%;
+  text-align: center;
+  }
+  
+.order4 .line3{
+    /* Line 3 */
+    position: relative;
+    width: 33px;
+    height: 0px;
+    left: 695px;
+    top: -230px;
+    border-radius: 30px;
+    border: 4px solid rgb(192, 39, 45);
+}
+
+  footer{
+  /* Rectangle 12 */
+  position: relative;
+  width: 1442px;
+  height: 115px;
+  left: -3px;
+  right: 3px;
+  top: -40px;
+  bottom: -1780px;
+  background: rgb(36, 83, 134);
+  }
+
+  .social_media{
+    /* social media */
+    position: relative;
+    width: 117.19px;
+    height: 32.19px;
+    left: 144px;
+    right: 1180.81px;
+    top: 40px;
+    bottom: -1735.19px;
+  }
+
+  .text_footer{
+    /* Text Footer */
+    position: relative;
+    width: 910px;
+    height: 64px;
+    left: 420px;
+    right: 112px;
+    top: -15px;
+    bottom: -1745px;
+  }
+
+  .text_footer h1{
+    /* 8-800-000-00-00 */
+    position: relative;
+    width: 293px;
+    height: 31px;
+    left: 304px;
+    right: -113px;
+    top: -105px;
+    bottom: -1787px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
+
+  .text_footer p{
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-align: left;
+  }
